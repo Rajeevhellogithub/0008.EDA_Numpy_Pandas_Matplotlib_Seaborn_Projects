@@ -1,1 +1,3 @@
-# Numpy_Pandas_Matplotlib_Seaborn_Projects
+# EDA Numpy Pandas Matplotlib Seaborn Based Projects
+
+In this repository, I have stored projects based on Exploratory Data Analysis (EDA), NumPy, Pandas, Matplotlib, and Seaborn.
